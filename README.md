@@ -11,7 +11,7 @@ This template uses the following technologies:
 ## Getting started
 
 ```bash
-git clone https://github.com/itsmrad/rewaste
+git clone https://github.com/vanshaggarwal07/ReWaste-Prod.git
 cd rewaste
 pnpm install
 # or
