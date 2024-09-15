@@ -12,7 +12,7 @@ This template uses the following technologies:
 
 ```bash
 git clone https://github.com/vanshaggarwal07/ReWaste-Prod.git
-cd rewaste
+cd ReWaste-Prod
 pnpm install
 # or
 yarn
